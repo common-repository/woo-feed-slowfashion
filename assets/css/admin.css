@@ -1,0 +1,30 @@
+
+#woocommerce_xml_integration_slowfashion .options_group select {
+    width: auto;
+}
+
+.file-upload {
+    position: relative;
+    overflow: hidden;
+    margin: 10px;
+    top: 10px;
+}
+.file-upload input {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+    cursor: pointer;
+    opacity: 0;
+    filter: alpha(opacity=0);
+}
+
+.categories-url{
+    position: relative;
+}
+.categories-url p{
+    margin: 10px 0 0 0 !important;
+    padding: 0 0 0 0;
+}
